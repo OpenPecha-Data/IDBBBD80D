@@ -1,15 +1,16 @@
-id: opecha:P007124
+id: P007124
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG478
   title: རྨ་ལྷོའི་ཚན་རྩལ་ཀློག་དེབ་
-  volume:
+  author: ''
+  volumes:
     0e47a057a9cc49858906cda9f685a533:
       image_group_id: I1KG482
       title: Volume 1 of rma lho'i tshan rtsal klog deb
       volume_number: 1
       total_pages: 320
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྨ་ལྷོའི་ཚན་རྩལ་ཀློག་དེབ་
   author: ''
